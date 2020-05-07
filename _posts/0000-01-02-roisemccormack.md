@@ -2,7 +2,7 @@
 
 layout:slide
 
-title:"Welcome to out second slide!"
+title:"Welcome to Roise's second slide!"
 
 ---
 
